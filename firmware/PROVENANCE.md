@@ -1,5 +1,5 @@
 ---
-type: Reference
+type: Reference Table
 title: Provenance of the Probe Firmware
 description: The inputs, the flags and the checksum that produced debugprobe_on_pico2.uf2.
 status: draft
