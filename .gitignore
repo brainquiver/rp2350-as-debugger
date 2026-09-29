@@ -1,0 +1,12 @@
+# macOS, and the AppleDouble sidecar that exFAT writes beside every file
+._*
+.DS_Store
+
+# A debugprobe build, if one is made here to regenerate the firmware. The tracked image in firmware/ is the one that PROVENANCE.md describes.
+build/
+*.elf
+*.bin
+*.map
+
+# OpenOCD and serial logs from a session
+*.log
