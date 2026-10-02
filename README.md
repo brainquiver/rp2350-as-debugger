@@ -205,7 +205,7 @@ link stops with `cannot find -lc`. Give CMake the ArmGNUToolchain, as the line a
 
 `firmware/PROVENANCE.md` holds the commit of each input and the checksum of the output.
 
-## 9. Licence
+## 9. License
 
-The firmware is the work of Raspberry Pi and it keeps the MIT licence of that project. See
+The firmware is the work of Raspberry Pi and it keeps the MIT license of that project. See
 [LICENSE-debugprobe](LICENSE-debugprobe).
