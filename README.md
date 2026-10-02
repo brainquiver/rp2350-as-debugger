@@ -1,7 +1,7 @@
 ---
 type: Repository Guide
 title: RP2350 as a Debugger
-description: Guide to using an RP2350 board as a CMSIS-DAP SWD probe for other microcontrollers.
+description: Guide that turns an RP2350 board into a CMSIS-DAP SWD probe for other microcontrollers.
 status: stable
 tags: [rp2350, xiao, cmsis-dap, swd, openocd, debugprobe]
 generated:
@@ -12,7 +12,7 @@ supervised:
   at: 2026-10-02T17:54:03Z
 edited:
   by: claude-code/opus-5.5
-  at: 2026-10-02T17:54:03Z
+  at: 2026-10-02T18:04:52Z
 ---
 
 # RP2350 as a Debugger
